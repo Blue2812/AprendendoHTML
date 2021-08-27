@@ -1,8 +1,38 @@
 body{
 
-	background-color: blue;
-	
+	background-color:#87CEEB;
+	margin-right: 10%;
+	margin-left: 10%;
+	font-family: 'Source Sans Pro', sans-serif;
+
+h1{
+	text-align: center;
+	color:#000080;
 }
 
+h2,h3{
+color:#0000FF
 
+}
 
+p{
+	font: 1.3em;
+	text-indent: 3em;
+	color: #191970
+
+}
+
+figure{
+
+	
+	text-align: center;
+}
+
+img{
+
+	width: 50%;
+}
+
+.negrito{
+	font-weight: bold;
+}
